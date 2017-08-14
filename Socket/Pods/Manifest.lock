@@ -1,0 +1,20 @@
+PODS:
+  - Charts (3.0.0):
+    - Charts/Core (= 3.0.0)
+  - Charts/Core (3.0.0)
+  - Masonry (1.0.2)
+  - SocketRocket (0.5.1)
+
+DEPENDENCIES:
+  - Charts
+  - Masonry
+  - SocketRocket
+
+SPEC CHECKSUMS:
+  Charts: beb341928d2135613b4325a6c6aff9f2f6de895e
+  Masonry: 7c429b56da9d4ee0bbb3ed77a5ea710d6a5df39e
+  SocketRocket: d57c7159b83c3c6655745cd15302aa24b6bae531
+
+PODFILE CHECKSUM: 53c80fd9d5d43f35555264f09665a1e4a8568cd2
+
+COCOAPODS: 1.0.1
